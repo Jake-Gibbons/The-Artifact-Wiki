@@ -1,4 +1,4 @@
-site_name: The Artifact
+site_name: ""
 site_description: "A comprehensive wiki for The Artifact universe."
 site_author: "Jake Gibbons"
 site_url: https://your-domain.com         # (optional) set when you go live
@@ -65,21 +65,30 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Series Overview: series-overview.md
-  - Season Summaries: season-summaries.md
-  - Series Arc Chart: series-arc-chart.md
+  - Series:
+      - Overview: series-overview.md
+      - Season Summaries: season-summaries.md
+      - Arc Chart: series-arc-chart.md
   - Characters:
-      - Lyra Quen: lyra-quen.md
-      - Character Profiles: character-profiles.md
+      - Main Characters:
+          - Lyra Quen: lyra-quen.md
+      - Profiles: character-profiles.md
   - Worldbuilding:
       - Artifact & Architects: artifact-architects.md
       - Dual Timeline: dual-timeline.md
       - Earth as Ceremonial World: earth-ceremonial-world.md
       - Expanded Worldbuilding: expanded-worldbuilding.md
       - Timeline of the Universe: timeline-universe.md
+      - Worlds:
+          - Novasol Prime: worlds/novasol-prime.md
+          - Ferros: worlds/ferros.md
+          - Serenos: worlds/serenos.md
+          - Myrath: worlds/myrath.md
+          - Oura Station: worlds/oura-station.md
+          - Earth: worlds/earth.md
   - Factions & Politics:
       - Council Violations: council-violations.md
-      - Factions & Political Structure: factions-politics.md
+      - Political Structure: factions-politics.md
       - Factions:
           - The Enlightened: factions/enlightened.md
           - The Veil: factions/veil.md
@@ -87,10 +96,3 @@ nav:
   - Themes:
       - Legacy & Trauma: legacy-trauma.md
   - Visual References: visual-references.md
-  - Worlds:
-      - Novasol Prime: worlds/novasol-prime.md
-      - Ferros: worlds/ferros.md
-      - Serenos: worlds/serenos.md
-      - Myrath: worlds/myrath.md
-      - Oura Station: worlds/oura-station.md
-      - Earth: worlds/earth.md
