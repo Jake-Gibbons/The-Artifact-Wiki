@@ -1,3 +1,3 @@
 # Council Compliance Authority (CCA)
 
-Placeholder for the Council Compliance Authority (CCA), the Council's enforcement and surveillance arm. Expand with structure, units, and enforcement methods.
+The Council Compliance Authority ([CCA](/docs/factions/cca.md)) is the [Council](/docs/factions/council.md)'s enforcement and surveillance arm. It works closely with the [Bureau of Security](/docs/factions/bureau-of-security.md), [Bureau of Knowledge](/docs/factions/bureau-of-knowledge.md), and [Veil](/docs/factions/veil.md) to suppress dissent, enforce the [Council Violation System](/docs/law/council-violation-system.md), and maintain order across all worlds.

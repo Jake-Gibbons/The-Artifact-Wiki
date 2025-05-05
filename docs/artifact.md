@@ -1,3 +1,3 @@
 # The Artifact
 
-Placeholder for the Artifact, a central object of mystery and power in the setting. Expand with description, history, and its role in the Council's actions.
+The Artifact is a central object of mystery and power in the setting. It is sought by the [Council](/docs/factions/council.md), hidden by the [Veil](/docs/factions/veil.md), and believed to be connected to the [Architects](/docs/factions/architects.md). Knowledge of the Artifact is tightly controlled by the [Bureau of Knowledge](/docs/factions/bureau-of-knowledge.md) and the [CCA](/docs/factions/cca.md), and is a rallying point for the [Enlightened](/docs/factions/enlightened.md).

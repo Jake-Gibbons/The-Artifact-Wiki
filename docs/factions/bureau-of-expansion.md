@@ -1,3 +1,3 @@
 # Bureau of Expansion
 
-Placeholder for the Bureau of Expansion, the Council's bureau for colonization and resource allocation. Expand with projects, policies, and notable worlds.
+The Bureau of Expansion is the [Council](/docs/factions/council.md)'s bureau for colonization, resource allocation, and [Slipstream Gate](/docs/technology/slipstream-gate.md) operations. It works with the [Bureau of Knowledge](/docs/factions/bureau-of-knowledge.md) to control information about new worlds and with the [CCA](/docs/factions/cca.md) for enforcement on the frontier.

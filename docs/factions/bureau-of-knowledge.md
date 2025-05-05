@@ -1,3 +1,3 @@
 # Bureau of Knowledge
 
-Placeholder for the Bureau of Knowledge, the Council's information control and censorship bureau. Expand with structure, methods, and notable agents.
+The Bureau of Knowledge is the Council's information control and censorship bureau. It oversees the [Echo Archives](/docs/locations/echo-archives.md) on [Serenos](/docs/planets/serenos.md) and works closely with the [Veil](/docs/factions/veil.md) to suppress forbidden knowledge, especially about the [Artifact](/docs/artifact.md) and the [Architects](/docs/factions/architects.md). It is a key part of the [Council](/docs/factions/council.md)'s apparatus for maintaining the [Unity Creed](/docs/concepts/unity-creed.md).

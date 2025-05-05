@@ -1,3 +1,3 @@
 # Council Violation System
 
-Placeholder for the Council Violation System, the graded system for classifying and punishing crimes against the Council. Expand with violation levels, punishments, and notable cases.
+The Council Violation System is a graded system for classifying and punishing crimes against the [Council](/docs/factions/council.md). It is enforced by the [CCA](/docs/factions/cca.md) and monitored by the [Bureau of Knowledge](/docs/factions/bureau-of-knowledge.md). Violations often relate to forbidden knowledge, dissent, or breaches of the [Unity Creed](/docs/concepts/unity-creed.md).

@@ -1,3 +1,3 @@
 # Bureau of Culture
 
-Placeholder for the Bureau of Culture, the Council's bureau for enforcing the Unity Creed and managing ceremonial events. Expand with methods, propaganda, and notable events.
+The Bureau of Culture is the [Council](/docs/factions/council.md)'s bureau for enforcing the [Unity Creed](/docs/concepts/unity-creed.md) and managing ceremonial events, especially on [Earth](/docs/planets/earth.md). It works with the [Bureau of Knowledge](/docs/factions/bureau-of-knowledge.md) to suppress memory cults and with the [Veil](/docs/factions/veil.md) for ideological control.

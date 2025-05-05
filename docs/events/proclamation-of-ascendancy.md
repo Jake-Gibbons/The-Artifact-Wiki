@@ -1,3 +1,3 @@
 # Proclamation of Ascendancy
 
-Placeholder for the Proclamation of Ascendancy, a grand Council ceremony used to legitimize its rule. Expand with history, rituals, and political impact.
+The Proclamation of Ascendancy is a grand [Council](/docs/factions/council.md) ceremony used to legitimize its rule. It is orchestrated by the [Bureau of Culture](/docs/factions/bureau-of-culture.md) and often held on [Earth](/docs/planets/earth.md) as a display of unity and power. The event is tightly controlled by the [CCA](/docs/factions/cca.md) and monitored by the [Veil](/docs/factions/veil.md).
