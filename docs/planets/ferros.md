@@ -17,3 +17,13 @@ Ferros is a planet of endless factories, smog-choked skies, and sprawling worker
 
 ## Visual Inspiration
 Blazing furnaces, rusted metal, and neon graffiti against a backdrop of perpetual twilight.
+
+## History
+Ferros was once the industrial heart of the early Council, fueling expansion with its vast factories and mines. Decades of exploitation led to environmental collapse and mass unrest, making it the birthplace of the [Enlightened](/docs/factions/enlightened.md) resistance.
+
+## Governance & Society
+Officially ruled by a Council-appointed overseer, real power often lies with local syndicates and rebel leaders. Daily life is harsh, with most citizens working in dangerous conditions. A strong sense of solidarity and underground culture persists among the workers.
+
+## Notable Figures
+- **Overseer Karr:** The Council’s iron-fisted administrator, known for brutal crackdowns.
+- **Jax Renn:** Charismatic leader of the Enlightened on Ferros.
